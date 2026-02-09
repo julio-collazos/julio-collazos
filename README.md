@@ -41,24 +41,12 @@ Currently focused on:
 
 ## 🔧 Technologies & Tools
 
-**Programming Languages:**
-
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-
-**GIS & Geospatial:**
+[![Skills](https://skills.syvixor.com/api/icons?i=python,sql,javascript,leaflet,postgresql,postgis,apachespark,docker,git)](https://github.com/syvixor/skills-icons)
 
 ![QGIS](https://img.shields.io/badge/QGIS-%23132B3F.svg?style=flat&logo=qgis&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
 ![GDAL](https://img.shields.io/badge/GDAL-023F88?style=flat&logo=geopandas&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-FF4500?style=flat&logo=esri&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=google-earth-engine&logoColor=white)
-
-**Tools & Others:**
-
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 
 ## 📫 Let's Connect
 
